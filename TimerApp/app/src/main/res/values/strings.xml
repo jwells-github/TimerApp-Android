@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">TimerApp</string>
+    <string name="button_delete">Delete</string>
+    <string name="button_start_pause">Start / Pause</string>
+    <string name="button_reset">Reset</string>
+    <string name="button_new">New Timer</string>
+    <string name="settings">Settings</string>
+    <string name="notification_title_timer_fin">Your Timer has finished</string>
+
+</resources>
